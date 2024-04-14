@@ -26,6 +26,7 @@ CMD Shortcuts:
    opens the current directory in Visual Studio Code
 
 Git Lifecycle:
+
 ![Git Lifecycle](https://milad-ezzat.vercel.app/static/images/git/git-4-phases.png)
 
 Basic Git commands:
@@ -127,3 +128,7 @@ Basic Git commands:
 > `git remote rm origin`: removes the remote named "origin" from your local repository configuration.
 
 > **upstream** refers to the original repository from which a fork was created.
+
+**README Resources:**
+
+1. https://readme.so/
